@@ -1,0 +1,11 @@
+{
+    "name":" exchange rates",
+    "version":"5.0",
+    "manifest_version": 3,
+    "description": "Extension to convert currencies quickly",
+    "action":{
+        "default_icon":"icon.jpg",
+        "default_popup": "index.html"
+    }
+
+}
